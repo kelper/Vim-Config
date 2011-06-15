@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/charlie/projects/helloworld'
+let g:netrw_dirhist_2='/home/charlie'
+let g:netrw_dirhist_3='/home/charlie/projects/nodetest/test'
+let g:netrw_dirhist_4='/home/charlie/projects/nodetest'
+let g:netrw_dirhist_5='/home/charlie/Downloads/boomerang-linux-alpha-0.3/output/bomb'
+let g:netrw_dirhist_6='/home/charlie/projects/simplechat/node.ws.js'
+let g:netrw_dirhist_7='/home/charlie/projects/poll/views'
